@@ -1,0 +1,10 @@
+.debug
+*.pyc
+.DS_Store
+*.un~
+*.swp
+.pandoc
+bin
+build
+dist
+*.egg-info
